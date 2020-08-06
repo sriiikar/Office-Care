@@ -1,6 +1,5 @@
 # Office Care
-# Git Repository for project using Embedded C programming
-# The code is as given below
+Git Repository for project using Embedded C programming
 
 # Components needed are:
 Arduino Uno R3             - 1
