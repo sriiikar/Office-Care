@@ -1,4 +1,7 @@
 # Office Care
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93f77a9deb734e639d9f61957980258b)](https://app.codacy.com/gh/sriiikar/Office-Care?utm_source=github.com&utm_medium=referral&utm_content=sriiikar/Office-Care&utm_campaign=Badge_Grade_Settings)
+
 Git Repository for project using Embedded C programming
 
 # Components needed are:
